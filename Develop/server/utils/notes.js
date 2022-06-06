@@ -19,8 +19,18 @@ function createNotes(newNote){
     notes.push(newNote1)
 return fs.writeFileSync(path.join(__dirname,'../db/db.json'), JSON.stringify({notes}, null,2),'utf8')
 
-
-
 }
 
-module.exports = {getNotes, createNotes}
+function deleteNote(id){
+    let existingNotes= JSON.parse(
+      fs.readFileSync(path.join(__dirname, "../db/db.json"), "utf8")
+    ).notes;
+    const notes = existingNotes.filter(note=>note.id!==id);
+    return fs.writeFileSync(
+      path.join(__dirname, "../db/db.json"),
+      JSON.stringify({ notes }, null, 2),
+      "utf8"
+    );
+}
+
+module.exports = {getNotes, createNotes, deleteNote}
