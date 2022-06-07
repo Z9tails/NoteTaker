@@ -45,9 +45,7 @@
 https://notetaker99.herokuapp.com/
 
 ## Screenshot
-[Notetakerheroku.pdf](https://github.com/Z9tails/NoteTaker/files/8849308/Notetakerheroku.pdf)
-[Notetaker2.pdf](https://github.com/Z9tails/NoteTaker/files/8849309/Notetaker2.pdf)
-[notetaker3.pdf](https://github.com/Z9tails/NoteTaker/files/8849310/notetaker3.pdf)
+
 
 
 ## Installation
