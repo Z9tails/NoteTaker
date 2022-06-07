@@ -4,7 +4,7 @@
   - [Description](#description)
   - [User Story](#user_story)
   - [Acceptance Criteria](#acceptance_criteria)
-  - [Video](#video)
+  - [Deploy Page](#deploy_page)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
@@ -39,8 +39,9 @@
  - WHEN I click on the Write icon in the navigation at the top of the page
  - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Videos
+## Deploy Page
 
+https://notetaker99.herokuapp.com/
 
 ## Installation
 Install node.js, inquiry, express, path, uuid, and heroku. 
