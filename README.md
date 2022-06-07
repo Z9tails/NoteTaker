@@ -5,6 +5,7 @@
   - [User Story](#user_story)
   - [Acceptance Criteria](#acceptance_criteria)
   - [Deploy Page](#deploy_page)
+  - [ScreenShot](#screenshot)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
@@ -42,6 +43,9 @@
 ## Deploy Page
 
 https://notetaker99.herokuapp.com/
+
+## Screenshot
+
 
 ## Installation
 Install node.js, inquiry, express, path, uuid, and heroku. 
