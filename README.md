@@ -45,12 +45,8 @@
 https://notetaker99.herokuapp.com/
 
 ## Screenshot
-![Notetakerheroku](https://user-images.githubusercontent.com/100103488/172276855-c27dbef8-e03f-4b43-a2d6-f1152944deea.png)
-
-![Notetaker2](https://user-images.githubusercontent.com/100103488/172276849-7b447839-a121-4e77-9a18-3317cf946ae6.png)
-
-
-![notetaker3](https://user-images.githubusercontent.com/100103488/172276844-29c33d15-ecd2-4a22-8e77-484759dc1289.png)
+![Heroku1](https://user-images.githubusercontent.com/100103488/172277133-79440311-e685-496d-a8a3-277e788339de.png)
+![Heroku2](https://user-images.githubusercontent.com/100103488/172277136-3e5ed45a-8e09-4081-bacf-8398b770790d.png)
 
 
 ## Installation
